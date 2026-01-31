@@ -1,2 +1,4 @@
 SKILLS 
--
+-C
+-PYTHON
+-HTML
